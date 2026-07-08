@@ -284,10 +284,10 @@ const songs = [
     },
     {
         id: 41,
-        title: "Tu Na Samjhe ",
+        title: "Tu Na Samjhe",
         artist: "MaxxTurnn",
         cover: "https://picsum.photos/200?random=41",
-        audio: "songs/Tu Na Samjhe .mp3"
+        audio: "songs/Tu Na Samjhe.mp3"
     },
     {
         id: 42,
