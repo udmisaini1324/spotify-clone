@@ -22,8 +22,8 @@ A responsive Spotify-inspired music player built using HTML, CSS, and JavaScript
 - Font Awesome
 
 ## 📸 Preview
+<img width="1917" height="898" alt="image" src="https://github.com/user-attachments/assets/ecdd9cef-3443-4815-9cbb-296f6f7daf2a" />
 
-(Add a screenshot here after deployment.)
 
 ## 👨‍💻 Author
 
